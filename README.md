@@ -1,6 +1,6 @@
 # Data_MS
 
-The goal of this project is to analyse Brazilian Ministery of Health's Instagram posts between March 2020 and May 2020. It was selected some variables of the dataframe to show the main differences among all thrree ministers (Mandetta, Teich and Pazuello). In the beginning of the pandemic in Brazil, the principal chair at Ministery of Health changed three times.
+The goal of this project is to analyze the Brazilian Ministry of Health's Instagram posts between March 2020 and May 2020. It selected some variables of the data frame to show the main differences among all three ministers (Mandetta, Teich, and Pazuello). At the beginning of the pandemic in Brazil, the principal chair at the Ministry of Health changed three times.
 
 ## Analysis
 
